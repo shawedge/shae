@@ -639,7 +639,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 .main-nav{
     padding-top: 42px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
     background-color: #f4f4f4;
 }
 .main-nav a{
